@@ -300,12 +300,12 @@
       "name": "Monosami Light",
       "appearance": "light",
       "style": {
-        "border": "#cecece",
+        "border": "#ececec",
         "border.variant": "#80808059",
-        "border.focused": "#66666",
+        "border.focused": "#666666",
         "border.selected": "#80808059",
         "border.transparent": "#80808059",
-        "border.disabled": "#80808059",
+        "border.disabled": "#80808590",
         "elevated_surface.background": "#ececec",
         "surface.background": "#ececec",
         "background": "#f8f8f8",
@@ -321,7 +321,7 @@
         "ghost_element.selected": "#ffffff0A",
         "ghost_element.disabled": null,
         "text": "#141414",
-        "text.muted": "#808080",
+        "text.muted": "#646464",
         "text.placeholder": null,
         "text.disabled": "#c4c4c4",
         "text.accent": "#040404",
@@ -336,7 +336,7 @@
         "tab_bar.background": "#e0e0e0",
         "tab.inactive_background": "#c0c0c0",
         "tab.active_background": "#ececec",
-        "search.match_background": "#080808",
+        "search.match_background": "#ffffff",
         "panel.background": "#ececec",
         "panel.focused_border": null,
         "pane.focused_border": null,
@@ -390,10 +390,10 @@
         "conflict": "#6c6cc4",
         "conflict.background": null,
         "conflict.border": null,
-        "created": "#242424",
+        "created": "#004424",
         "created.background": null,
         "created.border": null,
-        "deleted": "#94151b",
+        "deleted": "#442400",
         "deleted.background": null,
         "deleted.border": null,
         "error": "#870000",
@@ -411,10 +411,10 @@
         "info": "#ececec",
         "info.background": "#ececec",
         "info.border": null,
-        "modified": "#242424",
+        "modified": "#244400",
         "modified.background": null,
         "modified.border": null,
-        "predictive": null,
+        "predictive": "#a4a4a4",
         "predictive.background": null,
         "predictive.border": null,
         "renamed": null,
@@ -472,12 +472,12 @@
             "font_weight": 700
           },
           "function": {
-            "color": "#8a8a8a",
+            "color": "#444444",
             "font_style": null,
             "font_weight": null
           },
           "keyword": {
-            "color": "#8a8a8a",
+            "color": "#444444",
             "font_style": null,
             "font_weight": null
           },
@@ -507,7 +507,7 @@
             "font_weight": null
           },
           "punctuation": {
-            "color": "#d4d4d4",
+            "color": "#444444",
             "font_style": null,
             "font_weight": null
           },
@@ -517,7 +517,7 @@
             "font_weight": null
           },
           "punctuation.delimiter": {
-            "color": "#d4d4d4",
+            "color": "#444444",
             "font_style": null,
             "font_weight": null
           },
