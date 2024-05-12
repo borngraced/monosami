@@ -8,6 +8,8 @@ Installation: https://zed.dev/blog/user-themes-now-in-preview
 <br>
 <br>
 
-### Screenshot
+### Screenshots
 
-![theme](theme.png)
+![dark theme](dark_theme.png)
+
+![light theme](light_theme.png)
