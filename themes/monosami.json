@@ -318,7 +318,7 @@
         "ghost_element.background": null,
         "ghost_element.hover": "#d4d4d4",
         "ghost_element.active": null,
-        "ghost_element.selected": "#ffffff0A",
+        "ghost_element.selected": "#d1d1d1",
         "ghost_element.disabled": null,
         "text": "#121212",
         "text.muted": "#606060",
