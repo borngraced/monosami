@@ -1,10 +1,10 @@
-# Monosami
+# Monosami Monochrome Theme
 
-98% black and white monochrome theme for Zed Editor
+black and white monochrome theme for Zed Editor
 
 Inspired by: https://github.com/pgdouyon/vim-yin-yang/tree/master?tab=readme-ov-file
 <br>
-Installation: https://zed.dev/blog/user-themes-now-in-preview
+Installation can de done by adding new extension in Zed app. For manual installation for this guide: https://zed.dev/blog/user-themes-now-in-preview
 <br>
 <br>
 
