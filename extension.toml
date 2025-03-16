@@ -1,6 +1,6 @@
 id = "monosami"
 name = "Monosami Theme"
-version = "0.1.2"
+version = "0.1.3"
 authors = ["Samuel Onoja <0@sami.cx>", "Fabian Bergström"]
 description = "Monosami | black and white monochrome theme for Zed Editor"
 repository = "https://github.com/borngraced/monosami"

@@ -271,7 +271,7 @@
           "tag": {
             "color": "#8a8a8a",
             "font_style": null,
-            "font_weight": 800
+            "font_weight": null
           },
           "text.literal": {
             "color": "#00d894",
@@ -286,7 +286,7 @@
           "variable": {
             "color": "#666666",
             "font_style": null,
-            "font_weight": 800
+            "font_weight": null
           },
           "variable.special": {
             "color": "#666666",
@@ -564,7 +564,7 @@
           "tag": {
             "color": "#8a8a8a",
             "font_style": null,
-            "font_weight": 800
+            "font_weight": null
           },
           "text.literal": {
             "color": "#121212",
@@ -579,7 +579,7 @@
           "variable": {
             "color": "#666666",
             "font_style": null,
-            "font_weight": 800
+            "font_weight": null
           },
           "variable.special": {
             "color": "#666666",
